@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 👋 Hi, I’m @fishingcat-net
+- 👀 I’m interested in 👀[fishingcat.net](https://fishingcat.net)
+- 🌱 I’m currently learning 🌱
+- 📫 How to reach me 📧[mailtome](mailto:hello@fishingcat.net,pm@fishingcat.net,pm2@fishingcat.net)
+
 <!--
 **fishingcat-net/fishingcat-net** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
